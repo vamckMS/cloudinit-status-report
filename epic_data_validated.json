@@ -1,0 +1,164 @@
+{
+  "generated_at": "2025-08-11 11:36:49",
+  "project": "One",
+  "area_path": "One\\CloudInit",
+  "iteration_path": "One\\Bromine",
+  "query_source": "https://msazure.visualstudio.com/One/_queries/query/9dc4fe49-839c-4839-9360-5e323fb1650b/",
+  "summary": {
+    "total_epics": 21,
+    "active_epics": 8,
+    "new_epics": 13,
+    "removed_epics": 1
+  },
+  "active_epics": [
+    {
+      "id": 24900549,
+      "title": "Secrets Provisioning for CVM",
+      "state": "Active",
+      "assignee": "Christopher Patterson <cpatterson@microsoft.com>",
+      "tags": "Cloudinit; Obj: Experience; PartnerAsk; Producer; Security; Semester:Br; Semester:Se"
+    },
+    {
+      "id": 33047344,
+      "title": "NVMe Naming (AZ-VM-Utils)",
+      "state": "Active",
+      "assignee": "Christopher Patterson <cpatterson@microsoft.com>",
+      "tags": ""
+    },
+    {
+      "id": 33047787,
+      "title": "Test and Migrate to Aurora",
+      "state": "Active",
+      "assignee": "Ben Ryan <benjaminryan@microsoft.com>",
+      "tags": ""
+    },
+    {
+      "id": 33047805,
+      "title": "LPA - Chatbot V3",
+      "state": "Active",
+      "assignee": "Vincenzo Marcella <vmarcella@microsoft.com>",
+      "tags": ""
+    },
+    {
+      "id": 33047822,
+      "title": "LPA - Analysis Quality Improvements (bucket)",
+      "state": "Active",
+      "assignee": "Vincenzo Marcella <vmarcella@microsoft.com>",
+      "tags": ""
+    },
+    {
+      "id": 33151651,
+      "title": "Tuxops Continuous Quality Improvements (bucket)",
+      "state": "Active",
+      "assignee": "Christopher Patterson <cpatterson@microsoft.com>",
+      "tags": ""
+    },
+    {
+      "id": 33583359,
+      "title": "Linux Provisioning Analyzer - Quality improvements/features [Bromine]",
+      "state": "Active",
+      "assignee": "Sophie Gee <sophiegee@microsoft.com>",
+      "tags": "Linux Provisioning; Linux Provisioning Analyzer; lpa"
+    },
+    {
+      "id": 33587364,
+      "title": "LPA Security - Bromine 2025",
+      "state": "Active",
+      "assignee": "Peyton Robertson <probertson@microsoft.com>",
+      "tags": ""
+    }
+  ],
+  "new_epics": [
+    {
+      "id": 30027894,
+      "title": "P384 key support for VMs in Azure",
+      "state": "New",
+      "assignee": "Vasanth Ramani <vramani@microsoft.com>",
+      "tags": "cloud-init; CRP; Linux Provisioning"
+    },
+    {
+      "id": 33047528,
+      "title": "Remove provisioning agent from WALA",
+      "state": "New",
+      "assignee": "Christopher Patterson <cpatterson@microsoft.com>",
+      "tags": ""
+    },
+    {
+      "id": 33047627,
+      "title": "PPS Support for Azure Init",
+      "state": "New",
+      "assignee": "",
+      "tags": ""
+    },
+    {
+      "id": 33047651,
+      "title": "Azure-init for Containers (Flatcar)",
+      "state": "New",
+      "assignee": "Peyton Robertson <probertson@microsoft.com>",
+      "tags": ""
+    },
+    {
+      "id": 33047709,
+      "title": "Provisioning Observability Improvements (bucket)",
+      "state": "New",
+      "assignee": "Christopher Patterson <cpatterson@microsoft.com>",
+      "tags": ""
+    },
+    {
+      "id": 33047744,
+      "title": "Cloud-init Quality Improvements (bucket)",
+      "state": "New",
+      "assignee": "Christopher Patterson <cpatterson@microsoft.com>",
+      "tags": ""
+    },
+    {
+      "id": 33091209,
+      "title": "Admin Disabled VM Creation",
+      "state": "New",
+      "assignee": "Christopher Patterson <cpatterson@microsoft.com>",
+      "tags": ""
+    },
+    {
+      "id": 33091269,
+      "title": "Grooming Required",
+      "state": "New",
+      "assignee": "Vamsi Kavuru <vakavuru@microsoft.com>",
+      "tags": ""
+    },
+    {
+      "id": 33091847,
+      "title": "Linux VM Provisioning - Overlake 2+",
+      "state": "New",
+      "assignee": "Christopher Patterson <cpatterson@microsoft.com>",
+      "tags": ""
+    },
+    {
+      "id": 33131112,
+      "title": "Linux Provisioning-SFI-SDP-CY25",
+      "state": "New",
+      "assignee": "Peyton Robertson <probertson@microsoft.com>",
+      "tags": ""
+    },
+    {
+      "id": 34024684,
+      "title": "LPA - Chatbot V3.5",
+      "state": "New",
+      "assignee": "",
+      "tags": ""
+    },
+    {
+      "id": 34024940,
+      "title": "LPA - Chatbot V4",
+      "state": "New",
+      "assignee": "",
+      "tags": ""
+    },
+    {
+      "id": 34025034,
+      "title": "LPA - Chatbot V4.5",
+      "state": "New",
+      "assignee": "",
+      "tags": ""
+    }
+  ]
+}

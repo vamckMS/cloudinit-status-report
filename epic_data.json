@@ -1,0 +1,95 @@
+{
+  "generated_at": "2025-08-11 17:28:15",
+  "project": "One",
+  "area_path": "One\\CloudInit",
+  "iteration_path": "One\\Bromine",
+  "summary": {
+    "total_epics": 10,
+    "active_epics": 5,
+    "new_epics": 5,
+    "completed_epics": 0
+  },
+  "epics": [
+    {
+      "id": 33047787,
+      "title": "Test and Migrate to Aurora",
+      "state": "Active",
+      "assignee": "Ben Ryan <benjaminryan@microsoft.com>",
+      "last_updated": "2025-07-30T16:10:13.4300000Z",
+      "url": "https://dev.azure.com/msazure/_apis/wit/workItems/33047787"
+    },
+    {
+      "id": 33583359,
+      "title": "Linux Provisioning Analyzer - Quality improvements/features [Bromine]",
+      "state": "Active",
+      "assignee": "Sophie Gee <sophiegee@microsoft.com>",
+      "tags": "Linux Provisioning; Linux Provisioning Analyzer; lpa",
+      "last_updated": "2025-07-29T18:21:07.1600000Z",
+      "url": "https://dev.azure.com/msazure/_apis/wit/workItems/33583359"
+    },
+    {
+      "id": 33047805,
+      "title": "LPA - Chatbot V3",
+      "state": "Active",
+      "assignee": "Vincenzo Marcella <vmarcella@microsoft.com>",
+      "last_updated": "2025-07-07T19:53:23.1600000Z",
+      "url": "https://dev.azure.com/msazure/_apis/wit/workItems/33047805"
+    },
+    {
+      "id": 33047344,
+      "title": "NVMe Naming (AZ-VM-Utils)",
+      "state": "Active",
+      "assignee": "Christopher Patterson <cpatterson@microsoft.com>",
+      "last_updated": "2025-07-08T18:29:15.8700000Z",
+      "url": "https://dev.azure.com/msazure/_apis/wit/workItems/33047344"
+    },
+    {
+      "id": 33587364,
+      "title": "LPA Security - Bromine 2025",
+      "state": "Active",
+      "assignee": "Peyton Robertson <probertson@microsoft.com>",
+      "last_updated": "2025-07-07T19:53:33.5670000Z",
+      "url": "https://dev.azure.com/msazure/_apis/wit/workItems/33587364"
+    },
+    {
+      "id": 34025034,
+      "title": "LPA - Chatbot V4.5",
+      "state": "New",
+      "assignee": "",
+      "last_updated": "2025-07-31T22:21:01.6000000Z",
+      "url": "https://dev.azure.com/msazure/_apis/wit/workItems/34025034"
+    },
+    {
+      "id": 33047651,
+      "title": "Azure-init for Containers (Flatcar)",
+      "state": "New",
+      "assignee": "Peyton Robertson <probertson@microsoft.com>",
+      "last_updated": "2025-07-29T18:19:58.8470000Z",
+      "url": "https://dev.azure.com/msazure/_apis/wit/workItems/33047651"
+    },
+    {
+      "id": 34024940,
+      "title": "LPA - Chatbot V4",
+      "state": "New",
+      "assignee": "",
+      "last_updated": "2025-07-31T22:09:19.8670000Z",
+      "url": "https://dev.azure.com/msazure/_apis/wit/workItems/34024940"
+    },
+    {
+      "id": 34024684,
+      "title": "LPA - Chatbot V3.5",
+      "state": "New",
+      "assignee": "",
+      "last_updated": "2025-07-31T21:54:36.2300000Z",
+      "url": "https://dev.azure.com/msazure/_apis/wit/workItems/34024684"
+    },
+    {
+      "id": 33047744,
+      "title": "Cloud-init Quality Improvements (bucket)",
+      "state": "New",
+      "assignee": "Christopher Patterson <cpatterson@microsoft.com>",
+      "last_updated": "2025-07-07T19:53:38.7770000Z",
+      "url": "https://dev.azure.com/msazure/_apis/wit/workItems/33047744"
+    }
+  ]
+}

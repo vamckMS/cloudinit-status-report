@@ -1,0 +1,20 @@
+# Ignore Word document files (too large for git)
+*.docx
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore log files
+*.log
+
+# Keep the source files and data
+!README.md
+!*.py
+!*.json
+!*.md
