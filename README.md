@@ -132,11 +132,26 @@ All scripts can be run independently or as part of automated workflows:
 
 ## 📊 Sample Output
 
-The focused report includes:
-- **Executive Summary** with key metrics
-- **Active Epics** with detailed child items and status
-- **New Epics** in clean table format for planning
-- **Team Distribution** analysis
-- **Professional formatting** ready for presentations
+The comprehensive report includes:
+- **🔥 Critical Active Epics** with detailed status and strategic analysis
+- **📋 High-Priority Tasks** and feature tracking
+- **🐛 Recent Bug Fixes** and quality improvements
+- **📈 Trend Analysis** with work distribution metrics
+- **🎯 Strategic Recommendations** for immediate and long-term actions
+- **Professional formatting** ready for stakeholder presentations
 
-*Generated using Azure DevOps MCP integration*
+## 🎯 Latest Updates (August 2025)
+
+✅ **MCP Integration Complete**: Live Azure DevOps data fetching working  
+✅ **Comprehensive Analysis**: Strategic insights and trend analysis added  
+✅ **Multiple Report Types**: Simple and comprehensive report generators  
+✅ **Word Document Export**: Professional formatting for stakeholders  
+✅ **Real-time Data**: Always current information from Azure DevOps  
+
+### Current CloudInit Focus:
+- **Security**: 2 active epics on CVM secrets provisioning
+- **Quality**: Systematic improvements to cloud-init reliability  
+- **Platform**: Aurora migration and testing initiatives
+- **Bug Resolution**: Active fixes for critical issues
+
+*Generated using live Azure DevOps data via MCP integration*
